@@ -5,8 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
 
-[![Live App](https://img.shields.io/badge/Live_App-PythonAnywhere-blue)](http://subodhkryadav.pythonanywhere.com)
-live link:-  http://subodhkryadav.pythonanywhere.com
+
 
 
 > 🚀 A machine learning–powered web app that predicts students' academic performance based on input features.  
